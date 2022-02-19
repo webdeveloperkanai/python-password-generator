@@ -1,0 +1,1 @@
+chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTWXYZ0123456789@!#$%^&*()~`+-[]}{:;'/?><,"
